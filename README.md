@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend Development and Git**
 
-- 📫 Feel free to email me @ ______________ if you want to collabrate with me
+- 📫 Feel free to email me @ dubeyvishal917@gmail.com if you want to collabrate with me
 - 👾 &nbsp; Fun fact about recursion: I don't always use recursion, but when I do, I don't always use recursion.
 
   
