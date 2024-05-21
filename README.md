@@ -36,7 +36,7 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-vishaldubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/iam-vishaldubey?cardType=github&preferLogin=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-vishaldubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -54,3 +54,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=iam-vishaldubey&style=plastic&label=Stalker+Alert) <br>
