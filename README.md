@@ -47,7 +47,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-vishaldubey&hide_border=true" />
 </details>
 
-<details>
+
 
 <div align="center">
 
