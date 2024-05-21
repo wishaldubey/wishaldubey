@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vishal Dubey</h1>
-<h3 align="center">A geeky nerd India 👽</h3>
+<h3 align="center">A geeky nerd from India 👽</h3>
 <h3 align="center">✨Glad to see you here!✨</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WishalDubey)
