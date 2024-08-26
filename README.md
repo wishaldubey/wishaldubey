@@ -47,6 +47,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-vishaldubey&hide_border=true" />
 </details>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts32umdmny5ysagdhgceizh6ha&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts32umdmny5ysagdhgceizh6ha&redirect=true)
 
 
 <div align="center">
