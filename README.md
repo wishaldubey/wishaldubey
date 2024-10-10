@@ -3,7 +3,7 @@
 <h3 align="center">✨Glad to see you here!✨</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WishalDubey)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamvishaldubey/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wishaldubey/)
 
 <img align="right" alt="me" width="300" height="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gifv">
 
@@ -36,15 +36,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/iam-vishaldubey?cardType=github&preferLogin=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-vishaldubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/wishaldubey?cardType=github&preferLogin=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishaldubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-vishaldubey&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wishaldubey&hide_border=true" />
 </details>
 
 
