@@ -9,13 +9,11 @@
 
 ### Talking about Personal Stuff:
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Frontend Development and Git**
 
 - 📫 Feel free to email me @ dubeyvishal917@gmail.com if you want to collabrate with me
-- 👾 &nbsp; Fun fact about recursion: I don't always use recursion, but when I do, I don't always use recursion.
-
   
 ### Languages and Tools:
 
@@ -29,6 +27,8 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="laravel"></code>
+
 
 ### Projects and Dev Stuffs:
 
